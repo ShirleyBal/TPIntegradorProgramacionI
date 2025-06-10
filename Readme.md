@@ -26,3 +26,9 @@ El objetivo fue analizar, implementar y comparar diferentes algoritmos de búsqu
 
 ---
 
+
+
+El video explicativo del Integrador puede encontrarse en:
+
+https://drive.google.com/file/d/1hz3aX_zyu5GX6_Be8zkwCUdY55UKRE5O/view?usp=sharing
+https://youtu.be/NTh1Q4qFreU
